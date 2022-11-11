@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kayky0019)
 
 ![Kayky GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayky019&show_icons=true&theme=transparent)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky019&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky019&layout=compact&langs_count=7&theme=transparent"/>
 
 # Tecnologias que eu uso no meu dia
 
