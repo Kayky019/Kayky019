@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Kayky Meneses Andrade🚀
 
-<strong>Estudando Desenvolvimento Web front-end</strong>👨‍💻
+<strong>Estudando Ciência da Computação</strong>👨‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykyzx019/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayky-meneses-57ab6922a/)
